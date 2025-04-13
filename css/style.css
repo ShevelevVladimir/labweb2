@@ -50,3 +50,19 @@ body {
     height: 70px;
     justify-content: left;
 }
+.button_js {
+    text-align: center;
+}
+#myButton {
+    border: none;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(158, 9, 9);
+    color: beige;
+    font-weight: bold;
+}
+#demo img {
+    margin-top: 20px;
+    width: 600px;
+    height: 400px;
+}
